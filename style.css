@@ -16,7 +16,7 @@ justify-content: center;
 img{
     hight:200px;
 }
-.categoria-videos{
+.categoria-videos {
     display: flex;
     overflow: auto;
     gap: 10px;
