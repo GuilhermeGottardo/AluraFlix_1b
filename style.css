@@ -8,12 +8,13 @@ padding-top: 80px;
 padding-bottom: 80px;
 display: flex;
 justify-content: center;
+padding-left: ;
 }
 .chamada-texto{
     margin-right: 40px;
 }
 img{
-    hight:200px;
+    height:200px;
 }
 .categoria-videos {
     display: flex;
